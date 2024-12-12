@@ -1,3 +1,5 @@
+# Header 1
+
 <header>
 
 <!--
@@ -7,8 +9,23 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Communicate using Markdown
+# Header 1
+## Header 2
+### Header 3 with extra text
+#### Header 4
+##### Header 5
+###### Header 6 with spaces at the end    
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
@@ -66,14 +83,20 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
+![image](https://github.com/user-attachments/assets/49740409-bdc1-4c66-ad2d-7d3aa9f11aaf)
+[ ] Google
+[x] This is Task list
 
+```js
+console.log("hello world")
+```
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
 ---
-
+Nothing just added Header
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
