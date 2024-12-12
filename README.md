@@ -7,12 +7,13 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Markdown Communication
-## Markdown Communication
-### Markdown Communication
-#### Markdown Communication
-##### Markdown Communication
-###### Markdown Communication
+# Header 1
+## Header 2
+### Header 3 with extra text
+#### Header 4
+##### Header 5
+###### Header 6 with spaces at the end    
+
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
