@@ -1,3 +1,5 @@
+# Header 1
+
 <header>
 
 <!--
@@ -14,7 +16,16 @@
 ##### Header 5
 ###### Header 6 with spaces at the end    
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+``` javascript
+var myVar = "Hello, world!";
+```
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
